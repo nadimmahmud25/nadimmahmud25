@@ -38,17 +38,17 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <h3 align="center">
-  <a href="https://portfolio-of-md-nadim-mahmud.netlify.app/" target="_blank"> 🌐 Portfolio Website Link 🌐 </a> 
-  <a href="https://portfolio-of-md-nadim-mahmud.netlify.app/" target="_blank" rel="noopener"> 🌐 Portfolio Website Link 🌐 </a> 
+  <a href="https://nadim-portfolio.web.app/" target="_blank"> 🌐 Portfolio Website Link 🌐 </a> 
+  <a href="https://nadim-portfolio.web.app/" target="_blank" rel="noopener"> 🌐 Portfolio Website Link 🌐 </a> 
 </h3>
 
 <br/>
 
 <p align="center">
-<a href="https://portfolio-of-md-nadim-mahmud.netlify.app/" target="_blank"><img alt="https://portfolio-of-md-nadim-mahmud.netlify.app/" src="https://img.shields.io/badge/Website-www.adityavsingh.com/-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://nadim-portfolio.web.app/" target="_blank"><img alt="https://nadim-portfolio.web.app/" src="https://img.shields.io/badge/Website-nadim-portfolio.web.app/-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/nadimmahmud25/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-nadimmahmud25-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:nadimmahmudmy@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-nadimmahmudmy@gmail.com-blue?style=flat-square&logo=gmail"></a>
-<a href="https://portfolio-of-md-nadim-mahmud.netlify.app/" target="_blank" rel="noopener"><img alt="https://portfolio-of-md-masud-rana.netlify.app/" src="https://img.shields.io/badge/Website-www.adityavsingh.com/-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://nadim-portfolio.web.app/" target="_blank" rel="noopener"><img alt="https://nadim-portfolio.web.app/" src="https://img.shields.io/badge/Website-nadim-portfolio.web.app/-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/nadimmahmud25/" target="_blank" rel="noopener"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-nadimmahmud25-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:nadimmahmudmy@gmail.com" target="_blank" rel="noopener"><img alt="Email" src="https://img.shields.io/badge/Email-nadimmahmudmy@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
